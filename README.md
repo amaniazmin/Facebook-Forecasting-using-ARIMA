@@ -1,5 +1,3 @@
-# Facebook-Forecasting-using-ARIMA
-Financial time series analysis of Facebook (Meta) stock prices using ARIMA for price forecasting and NGARCH for volatility modeling in Python.
 # Financial Forecasting: ARIMA & NGARCH Volatility Modeling
 ### Tools: Python, Pandas, Statsmodels | Data: Facebook (Meta) Stock Prices (2012–2021)
 
@@ -24,10 +22,3 @@ Implemented to address the nonlinearities and "volatility clustering" common in 
 - **Differencing**: Stabilizing the mean of the time series to ensure model reliability.
 - **Evaluation**: Validating forecasts against historical trading days.
 
-## File Structure
-- `/code`: Python scripts for ARIMA implementation.
-- `/docs`: Full analytical report (`Predictive.pdf`) detailing model equations and results.
-- `/data`: Historical CSV dataset sourced from Kaggle.
-
----
-*Developed for the Predictive Analytics curriculum - Universiti Malaysia Terengganu (UMT).*
